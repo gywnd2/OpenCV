@@ -51,3 +51,4 @@ bld/
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
+HW6/opencv_world3410.dll
